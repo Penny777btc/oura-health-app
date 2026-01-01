@@ -26,4 +26,4 @@ This repository is designed to be hosted on GitHub Pages.
 ## Contact
 
 - Email: penny777.btc@gmail.com
-- GitHub: [Penny777](https://github.com/Penny777)
+- GitHub: [Penny777btc](https://github.com/Penny777btc)
